@@ -1,0 +1,1 @@
+Observação Após o download do arquivo .xlsx da planilha disponível, é possível abri-la e editá-la no Google Sheets. Para isso, antes será necessário transferir o arquivo baixado para uma pasta do seu Google Drive.

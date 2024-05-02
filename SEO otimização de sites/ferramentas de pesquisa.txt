@@ -1,0 +1,24 @@
+Passamos superficialmente por algumas ferramentas próprias para pesquisar palavras-chave e ter ainda mais ideias de conteúdos. Agora é hora de você testar as ferramentas com o seu nicho de trabalho. Se não tiver, não tem problema! Vale fazer uma empresa ou serviço fictício para entender o funcionamento das plataformas. Antes de tudo, esses são os links das plataformas:
+
+Google Trends
+AnswerThePublic
+E para instalar a extensão do Ubersuggest no navegador Chrome:
+
+Ubersuggest
+Passo A) Lembra do briefing da aula 02? Se você ainda não preencheu com todas as informações, a hora é agora. Tenha o briefing da sua empresa, ou da empresa fictícia, completo.
+
+Passo B) Anote cinco palavras-chave da empresa, produto ou serviço. Comece pelas mais genéricas mesmo.
+
+Passo C) Comece com a pesquisa de uma por uma pelo Google, olhando (e anotando) as seguintes informações do Ubersuggest primeiro.
+
+|. Número de buscas mensais; ||. Perguntas da aba “People Also Ask/As pessoas também perguntam”; |||. Título do site com o maior número de Domain Authority.
+
+Atenção: Todas essas informações só irão aparecer na SERP do Google após você instalar e ativar a extensão do Ubersuggest.
+
+Passo D) Agora abra o Google Trends, e pesquise os mesmos termos que anotou no passo A. Mas filtre a sua pesquisa de acordo com a sua necessidade. Lembre-se dos filtros de localidade e período, por exemplo.
+
+Use a aba “+ Comparar” para ter o resultado: qual palavra-chave tem maior volume de busca?
+
+Passo E) Agora que você já sabe qual palavra-chave tem mais buscas das que anotou, vá ao answer the public e jogue a mesma palavra. Não esqueça de colocar a sua língua e país correto antes de mandar gerar o relatório!
+
+Ao gerar o relatório completo, anote os dados mais relevantes, e com maior busca, das pesquisas relacionadas a sua palavra-chave.
