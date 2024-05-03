@@ -1,4 +1,4 @@
-## Bundle of Front-End projects exploring web development concepts, such as accesibility, stylization, RegExp, and many others
+## Bundle of Front-End projects exploring web development concepts, such as accessibility, stylization, RegExp, and many others
 *Made with the help of ***Alura*** courses*
 
 Courses used:
